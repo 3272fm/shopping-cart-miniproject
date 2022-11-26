@@ -1,0 +1,18 @@
+The web has three user levels, administrator. admin's duty is filling the staff table, creating accounts for them. the admin uses the mystaff.php form only.
+ 2. The staff- they update users' product page and check comments. they use the pages: staff_login.php, productsupdate.php,adminviewcomments.php, edit.php.
+3. the client: interacts with the pages register.php, login.php, products.php, product.php,cart.php and comments.php.
+
+the configuration files: errors.php, functions.php, server.php.
+
+
+//product list
+
+<h1></h1>
+<p></p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p>tel no</p><i>6753345</i>
+<p>email:</p><i>gfg@ghgg.com</i>
